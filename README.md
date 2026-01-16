@@ -12,6 +12,3 @@ Built with Python and Streamlit for quick, intuitive healthcare insights.
 - 🧠 Modular design with separate logic and data layers  
 
 ---
-
-## 🗂️ Project Structure
-
