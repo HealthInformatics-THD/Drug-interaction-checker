@@ -27,7 +27,7 @@ A simple **Streamlit-based web application** that allows users to select medicat
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/mernasharoeem12/drug-interaction-checker.git
+git clone https://github.com/HealthInformatics-THD/Drug-interaction-checker
 cd drug-interaction-checker
 ```
 
